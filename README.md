@@ -96,6 +96,9 @@ finflow-report/
 - Scheduled refreshes and report snapshots
 - Community-maintained adapter and template catalog
 
+See the [project review](docs/PROJECT_REVIEW.md), [growth plan](docs/GROWTH_PLAN.md),
+and [Codex for OSS application draft](docs/CODEX_FOR_OSS_APPLICATION.md).
+
 ## Contributing
 
 Financial APIs are diverse by nature. Contributions of provider examples, validation

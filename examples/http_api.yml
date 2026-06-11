@@ -1,0 +1,19 @@
+source:
+  type: http_json
+  url: https://api.example.com/v1/observations
+  records_path: data.items
+  headers:
+    Authorization: Bearer ${FINFLOW_API_KEY}
+  params:
+    symbol: EXAMPLE
+
+fields:
+  date: {source: timestamp, type: date}
+  value: {source: metrics.value, type: number}
+
+report:
+  title: Example API Report
+  output: output/api_report.xlsx
+  sheet_name: Data
+  date_column: date
+  metric_columns: [value]

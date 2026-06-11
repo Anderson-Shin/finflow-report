@@ -1,0 +1,21 @@
+name: Provider example
+description: Propose a public financial API example
+title: "[Provider]: "
+labels: ["provider", "enhancement"]
+body:
+  - type: input
+    attributes:
+      label: Provider
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Public documentation and response shape
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Redistribution
+      options:
+        - label: I verified that the proposed sample data can be redistributed.
+          required: true

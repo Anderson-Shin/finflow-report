@@ -1,0 +1,40 @@
+{
+  "observations": [
+    {
+      "period": {"date": "2025-01-31"},
+      "market": {"close": "102.50"},
+      "fundamentals": {"revenue": 880},
+      "economy": {"policy_rate": 4.5}
+    },
+    {
+      "period": {"date": "2025-02-28"},
+      "market": {"close": "107.20"},
+      "fundamentals": {"revenue": 910},
+      "economy": {"policy_rate": 4.5}
+    },
+    {
+      "period": {"date": "2025-03-31"},
+      "market": {"close": "105.80"},
+      "fundamentals": {"revenue": 945},
+      "economy": {"policy_rate": 4.25}
+    },
+    {
+      "period": {"date": "2025-04-30"},
+      "market": {"close": "111.40"},
+      "fundamentals": {"revenue": 970},
+      "economy": {"policy_rate": 4.25}
+    },
+    {
+      "period": {"date": "2025-05-31"},
+      "market": {"close": "115.10"},
+      "fundamentals": {"revenue": 1010},
+      "economy": {"policy_rate": 4.0}
+    },
+    {
+      "period": {"date": "2025-06-30"},
+      "market": {"close": "118.70"},
+      "fundamentals": {"revenue": 1045},
+      "economy": {"policy_rate": 4.0}
+    }
+  ]
+}

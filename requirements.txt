@@ -1,0 +1,7 @@
+pandas>=2.1
+plotly>=5.18
+pydantic>=2.5
+PyYAML>=6.0
+requests>=2.31
+streamlit>=1.31
+xlsxwriter>=3.1

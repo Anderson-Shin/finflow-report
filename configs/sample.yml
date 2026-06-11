@@ -1,0 +1,28 @@
+source:
+  type: json_file
+  path: ../examples/data/sample_market.json
+  records_path: observations
+
+fields:
+  date:
+    source: period.date
+    type: date
+  close_price:
+    source: market.close
+    type: number
+  revenue:
+    source: fundamentals.revenue
+    type: number
+  policy_rate:
+    source: economy.policy_rate
+    type: number
+
+report:
+  title: Sample Market & Fundamentals Report
+  output: output/sample_report.xlsx
+  sheet_name: Overview
+  date_column: date
+  metric_columns:
+    - close_price
+    - revenue
+    - policy_rate

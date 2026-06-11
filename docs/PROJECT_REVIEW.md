@@ -1,4 +1,4 @@
-# Project Review and Application Readiness
+# Project Review
 
 ## Current assessment
 
@@ -10,10 +10,9 @@
 | Maintainability | 82/100 | Small modules, contributor guide, issue templates, and roadmap |
 | Extensibility | 86/100 | New JSON shapes can be mapped without provider-specific code |
 | Ecosystem contribution | 58/100 | Clear potential, but real adoption evidence is not available yet |
-| Codex usage fit | 66/100 | Strong maintainer-automation plan, not implemented yet |
 
-The project is ready for public feedback, but a stronger Codex for OSS application
-requires truthful evidence of usage, adoption, and ongoing maintenance.
+The project is ready for public feedback. Its next priority is building evidence of
+real-world usage, adoption, and ongoing maintenance.
 
 ## Highest-value next features
 
@@ -26,7 +25,7 @@ requires truthful evidence of usage, adoption, and ongoing maintenance.
 7. Scheduled pipeline execution
 8. Provider contribution validation command
 9. Snapshot comparison between reporting periods
-10. Codex-assisted pull request review and release-note workflow
+10. Automated pull request checks and release-note workflow
 
 ## GitHub profile copy
 

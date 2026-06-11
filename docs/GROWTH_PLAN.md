@@ -19,4 +19,4 @@
 1. Share a practical write-up in relevant Python, data engineering, and finance groups.
 2. Submit releases to appropriate open-source newsletters and communities.
 3. Consider Hacker News or Product Hunt after real users and provider examples exist.
-4. Apply to Codex for OSS after the repository shows active maintenance and usage.
+4. Publish regular progress updates after the repository shows active maintenance and usage.

@@ -97,8 +97,7 @@ finflow-report/
 - Scheduled refreshes and report snapshots
 - Community-maintained adapter and template catalog
 
-See the [project review](docs/PROJECT_REVIEW.md), [growth plan](docs/GROWTH_PLAN.md),
-and [Codex for OSS application draft](docs/CODEX_FOR_OSS_APPLICATION.md).
+See the [project review](docs/PROJECT_REVIEW.md) and [growth plan](docs/GROWTH_PLAN.md).
 
 ## Contributing
 
